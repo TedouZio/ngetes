@@ -1,5 +1,5 @@
 ## DEPLOY
-[![Deploy](https://herokucdn.com/deploy/button.svg)(https://github.com/TedouZio/ngetes/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TedouZio/ngetes/)
 
 ## CARA INSTALL
 
