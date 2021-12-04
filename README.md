@@ -1,5 +1,5 @@
 ## DEPLOY
-[![Deploy](https://herokucdn.com/deploy/button.svg)(https://git.heroku.com/ngetestermux.git)
+[![Deploy](https://herokucdn.com/deploy/button.svg)(https://github.com/TedouZio/ngetes/new/master)
 
 ## CARA INSTALL
 
