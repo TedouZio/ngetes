@@ -1,5 +1,7 @@
 ## 'Deploy'
-[![Deploy](https://herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/TedouZio/ngetes/
+[![Deploy]
+(https://herokucdn.com/deploy/button.svg)]
+(https://https://github.com/TedouZio/ngetes/)
 
 ## CARA INSTALL
 '''bash
